@@ -21,7 +21,7 @@ Abra o Docker e crie um container em que conste o nome de postgres-db com o banc
 Em seguida, abra o DBeaver conectando ao Postgres, e crie um Banco de Dados com o nome "delta". Agora crie uma tabela com o nome students.
 
 Foram utilizadas as seguintes tecnologias no projeto
-* [Exoress](https://expressjs.com/pt-br/starter/installing.html)
+* [Express](https://expressjs.com/pt-br/starter/installing.html)
 * [Typeorm](https://www.npmjs.com/package/typeorm)
 * [Uuid](https://www.npmjs.com/package/uuid)
 * [Reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
